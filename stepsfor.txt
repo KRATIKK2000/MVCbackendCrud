@@ -9,3 +9,10 @@ npm i nodemon
 // .envContent
 DBURL= mongodb://127.0.0.1:27017/userEnquiry
 PORT= 8000
+
+app folder ke andr insbke folder hote h 
+1 model
+2 view
+3 cotroller
+4 middleware
+5 routes 
